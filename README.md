@@ -9,7 +9,7 @@ This is a simple login page designed for the enrollment in  SDC club, providing 
 
 1. HTML5  
 2. CSS3
-3. JS
+   
 
 ## Deployment
 
